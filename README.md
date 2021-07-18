@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Isra1610
+- 👋 Hi, I’m @Isra1610, junior developer, HTML, CSS, javaScript, WordPress, PHP
 - 👀 I’m interested in learn all i can
-- 🌱 I’m currently learning MERN, PHP & PHP's frameworks
+- 🌱 I’m currently learning React & frameworks, PHP & PHP's frameworks
 - 💞️ I’m looking to collaborate on web development for now
 - 📫 How to reach me israelrojas626@gmail.com
 
