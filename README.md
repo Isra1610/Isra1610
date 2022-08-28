@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Isra1610, junior developer, HTML, CSS, javaScript, WordPress, PHP
+- 👋 Hi, I’m @Isra1610, React JS, Next JS, TypeScript, Tailwind CSS
 - 👀 I’m interested in learn all i can, this is my personal page in developing with React Js: https://israelhrs.netlify.app/
-- 🌱 I’m currently learning React, Agular, Vue, Node.
+- 🌱 I’m currently learning about Next JS, TypeScript, Node JS.
 - 💞️ I’m looking to collaborate on web development for now
 - 📫 How to reach me israelrojas626@gmail.com
 
