@@ -14,18 +14,11 @@
 <hr>
 <div align="center">
     <h2 align="center">Used Technologies</h2>
-    <div align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original.svg" alt="next" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nest/nest-original.svg" alt="nest" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Java" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original.svg" alt="vue" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" alt="tailwind" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="80">
-    </div>
+    <p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nextjs,react,vue,html,css,javascript,ts,express,graphql,npm,prisma,redis,supabase,docker,yarn" />
+  </a>
+</p>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
