@@ -16,8 +16,7 @@
     <h2 align="center">Used Technologies</h2>
     <p align="center">
     <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=git,nextjs,react,vue,html,css,javascript,ts,express,graphql,npm,prisma,redis,supabase,docker,yarn" /> -->
-    [![My Skills](https://skillicons.dev/icons?i=git,nextjs,react,vue,html,css,javascript,ts,express,graphql,npm,prisma,redis,supabase,docker,yarn&perline=7)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=git,nextjs,react,vue,html,css,javascript,ts,express,graphql,npm,prisma,redis,supabase,docker,yarn&perline=7" />
   </a>
 </p>
     <h2 align="center">Used IDE's</h2>
