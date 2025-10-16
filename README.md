@@ -16,7 +16,7 @@
     <h2 align="center">Used Technologies</h2>
     <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,css,javascript,ts,express,graphql,prisma,redis,supabase,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,css,javascript,ts,express,nestjs,graphql,prisma,redis,supabase,docker&perline=7" />
   </a>
 </p>
     <h2 align="center">Used IDE's</h2>
