@@ -15,20 +15,19 @@
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original.svg" alt="C" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nest/nest-original.svg" alt="C#" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original.svg" alt="next" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nest/nest-original.svg" alt="nest" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Java" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original.svg" alt="React" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" alt="Python" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Python" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original.svg" alt="vue" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" alt="tailwind" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="80">
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cursor/cursor-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
     </div>
 </div>
@@ -36,7 +35,6 @@
 <footer align="center">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Isra1610&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isra1610&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
     </p>
 </footer>
 
