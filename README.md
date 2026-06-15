@@ -3,7 +3,7 @@
     <h1 align="left">Hi everyone, i'm Israel.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
         <ul>
-            <li>🔭 I'm a Frontend Developer improving to be a FullStack</li>
+            <li>🔭 I'm a FullStack Developer</li>
             <li>👨‍🎓 I'm learning NestJS at the moment</li>
             <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: israelrojas626@gmail.com</li>
