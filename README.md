@@ -4,10 +4,9 @@
     <h3 align="left">
         <ul>
             <li>🔭 I'm a FullStack Developer</li>
-            <li>👨‍🎓 I'm learning NestJS at the moment</li>
             <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: israelrojas626@gmail.com</li>
-            <li>💼 I have 4+ years of professional experience</li>
+            <li>💼 I have 5+ years of professional experience</li>
         </ul>
     </h3>
 </header>
